@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+body {
+
+}
+.hero{
+    padding: 10px;
+}
+.hero_group{
+    width: 100%;
+    height: 300px;
+    background: url("img/img_2.png") center/cover no-repeat;
+    padding: 150px 0 0 0 ;
+}
+.hero_group img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 70%;
+    height: 400px;
+}
+.hero_group  h1{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 35px;
+}
+
+.hero_group h3{
+text-align: center;
+    margin: 20px 40px;
+    font-size: 35px;
+}
+
+.hero_group  h2{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 35px;
+}
